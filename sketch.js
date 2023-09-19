@@ -17,7 +17,7 @@ function draw() {
   x += speed;
 
 }
-function mousePressed() {
+function mouseClicked() {
   noLoop();
 }
 function mouseReleased() {
