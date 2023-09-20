@@ -2,9 +2,10 @@ let x = 200;
 let speed = 5;
 let diameter = 40;
 
+
 function setup() {
   createCanvas(400,400);
-  noLoop();
+
 }
 
 function draw() {
